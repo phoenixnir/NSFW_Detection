@@ -1,0 +1,1 @@
+Use `gen_data.py` to get hidden states of all prompts. Use `train.py` to train and get NSFW features. These features are stored in `coefs.npy`. Use `test.py` to test results.
