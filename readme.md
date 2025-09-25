@@ -1,1 +1,2 @@
-Use `gen_data.py` to get hidden states of all prompts. Use `train.py` to train and get NSFW features. These features are stored in `coefs.npy`. Use `test.py` to test results.
+## Usage
+Use `gen_data.py` to get hidden states of all prompts. Use `train.py` to train and get NSFW features. These features are stored in `coefs.npy`. Use `test.py` to test results. Use `inference.py` to get predictions for test prompts. Due to ethical concerns arising from the substantial number of NSFW prompts in our training data, we are not making the dataset publicly available. However, access will be provided to qualified researchers for legitimate research purposes upon request.
